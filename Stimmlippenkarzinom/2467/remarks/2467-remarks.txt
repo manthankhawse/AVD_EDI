@@ -1,2 +1,0 @@
-- die .EGG-Datei ist stark verrauscht.
-- Dateien trotzdem gelabelt

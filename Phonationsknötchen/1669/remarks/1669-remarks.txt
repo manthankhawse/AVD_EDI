@@ -1,9 +1,0 @@
-Der Satz wurde nicht gesprochen. 
-
-"in": auch als "il" gelabelt
-
-"an": auch als "al","am" gelabelt
-
-"un": auch als "ul" gelabelt
-
-"im" ist zu kurz, wurde trotzdem gelabelt.

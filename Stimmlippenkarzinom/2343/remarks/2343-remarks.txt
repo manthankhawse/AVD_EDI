@@ -1,4 +1,0 @@
-"an": auch als "am" gelabelt. 
-
-- das EGG-Signal ist unbrauchbar
-- die Datei wurde trotzdem gelabelt
