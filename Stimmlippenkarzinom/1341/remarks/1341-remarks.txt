@@ -1,0 +1,3 @@
+Das EGG-Signal ist teilweise zu schwach; es rauscht relativ stark. 
+
+"un": auch als "um" gelabelt. 

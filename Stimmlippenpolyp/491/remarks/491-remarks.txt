@@ -1,0 +1,2 @@
+Das EGG-Signal ist großteils unbrauchbar, trotzdem sind alle Vokale und der Satz gelabelt worden.
+"ul": auch als "un", "um" gelabelt.
